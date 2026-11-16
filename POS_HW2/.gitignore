@@ -1,0 +1,13 @@
+# Build artifacts
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+
+# Generated application data and exports
+data/
+reports/
+
+# Local files
+*.tmp
